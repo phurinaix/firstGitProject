@@ -1,1 +1,1 @@
-#HERE is me first project using git command.
+#HERE is my first project using git command.
